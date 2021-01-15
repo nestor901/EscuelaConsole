@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {}
+    "/home/nestor/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin\\Documents\\src\\Etapa1\\Etapa1.csproj",
+      "projectUniqueName": "/home/nestor/src/EscuelaConsole/Etapa1/Etapa1.csproj",
       "projectName": "Etapa1",
-      "projectPath": "C:\\Users\\admin\\Documents\\src\\Etapa1\\Etapa1.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin\\Documents\\src\\Etapa1\\obj\\",
+      "projectPath": "/home/nestor/src/EscuelaConsole/Etapa1/Etapa1.csproj",
+      "packagesPath": "/home/nestor/.nuget/packages/",
+      "outputPath": "/home/nestor/src/EscuelaConsole/Etapa1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/nestor/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
       }
     }
   }

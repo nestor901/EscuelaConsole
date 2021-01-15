@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pUVoSoxcfxdQl0L4EajBWcxjWGb6QxbAkNALjQCyzcrqavnmI0ehP3+O2iLdwheku2LhXZWGljHNiEt0ZEDzMQ==",
+  "dgSpecHash": "1/91K8iihkdh1pD+EeZ8wppekWKmeCo/U583f6VwbRdNAxFxMAJGKREDnr/tKw3bmeoOrDv5xZGHU8RClIAMkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\admin\\Documents\\src\\Etapa1\\Etapa1.csproj",
+  "projectFilePath": "/home/nestor/src/EscuelaConsole/Etapa1/Etapa1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
