@@ -1,0 +1,16 @@
+/home/nestor/src/EscuelaConsole/Etapa2/bin/Debug/net5.0/Etapa2
+/home/nestor/src/EscuelaConsole/Etapa2/bin/Debug/net5.0/Etapa2.deps.json
+/home/nestor/src/EscuelaConsole/Etapa2/bin/Debug/net5.0/Etapa2.runtimeconfig.json
+/home/nestor/src/EscuelaConsole/Etapa2/bin/Debug/net5.0/Etapa2.runtimeconfig.dev.json
+/home/nestor/src/EscuelaConsole/Etapa2/bin/Debug/net5.0/Etapa2.dll
+/home/nestor/src/EscuelaConsole/Etapa2/bin/Debug/net5.0/ref/Etapa2.dll
+/home/nestor/src/EscuelaConsole/Etapa2/bin/Debug/net5.0/Etapa2.pdb
+/home/nestor/src/EscuelaConsole/Etapa2/obj/Debug/net5.0/Etapa2.csprojAssemblyReference.cache
+/home/nestor/src/EscuelaConsole/Etapa2/obj/Debug/net5.0/Etapa2.GeneratedMSBuildEditorConfig.editorconfig
+/home/nestor/src/EscuelaConsole/Etapa2/obj/Debug/net5.0/Etapa2.AssemblyInfoInputs.cache
+/home/nestor/src/EscuelaConsole/Etapa2/obj/Debug/net5.0/Etapa2.AssemblyInfo.cs
+/home/nestor/src/EscuelaConsole/Etapa2/obj/Debug/net5.0/Etapa2.csproj.CoreCompileInputs.cache
+/home/nestor/src/EscuelaConsole/Etapa2/obj/Debug/net5.0/Etapa2.dll
+/home/nestor/src/EscuelaConsole/Etapa2/obj/Debug/net5.0/ref/Etapa2.dll
+/home/nestor/src/EscuelaConsole/Etapa2/obj/Debug/net5.0/Etapa2.pdb
+/home/nestor/src/EscuelaConsole/Etapa2/obj/Debug/net5.0/Etapa2.genruntimeconfig.cache
